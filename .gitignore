@@ -1,0 +1,12 @@
+# Ignore Vagrant directory and all its contents
+.vagrant/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
